@@ -2,4 +2,4 @@
 
 
 # Exercicos-CWI 
-Exercícios do RESETE 🚀🚀🚀
+Exercícios do RESET 🚀🚀🚀
