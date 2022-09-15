@@ -1,4 +1,4 @@
-///////------Variáveis------///////3) Crie uma variável valorComJuros que calcula o valor de um boleto acrescido de 10% de juros por atraso;
+///////------Variáveis------///////
 vBoleto = 190
 
 ///////------Calcula o valor do juros (10%)------///////
